@@ -15,7 +15,7 @@ export default function Footer() {
             </p>
             <div className="mt-6 flex gap-3">
               <a
-                href="https://wa.me/919150507580"
+                href="https://wa.me/919578784000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-white/60 transition hover:border-amber-500 hover:text-amber-400"
@@ -25,7 +25,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="tel:+919150507580"
+                href="tel:+919578784000"
                 className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-sm text-white/60 transition hover:border-amber-500 hover:text-amber-400"
               >
                 📞
@@ -74,8 +74,8 @@ export default function Footer() {
             <h3 className="text-xs font-bold uppercase tracking-wider text-white/40">Contact</h3>
             <div className="mt-5 space-y-4 text-sm text-white/60">
               <p>📍 Yercaud, Tamil Nadu 636601</p>
-              <a href="tel:+919150507580" className="block transition hover:text-amber-400">
-                📞 +91 91505 07580
+              <a href="tel:+919578784000" className="block transition hover:text-amber-400">
+                📞 +91 95787 84000
               </a>
               <a
                 href="mailto:yercaudcottages@gmail.com?subject=Group%20Stay%20Enquiry%20-%20Sahana%20Holidays%20Yercaud"
@@ -87,13 +87,13 @@ export default function Footer() {
               </a>
               <div className="mt-4 flex flex-col gap-2">
                 <a
-                  href="tel:+919150507580"
+                  href="tel:+919578784000"
                   className="inline-flex items-center justify-center rounded-full bg-amber-500 px-5 py-2.5 text-xs font-bold uppercase tracking-wider text-stone-950 transition hover:bg-amber-400"
                 >
                   📞 Call Now
                 </a>
                 <a
-                  href="https://wa.me/919150507580"
+                  href="https://wa.me/919578784000"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-full border border-white/20 px-5 py-2.5 text-xs font-semibold text-white transition hover:bg-white hover:text-stone-900"

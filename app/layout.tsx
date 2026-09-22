@@ -51,7 +51,7 @@ const structuredData = {
     postalCode: "636601",
     addressCountry: "IN",
   },
-  telephone: "+919150507580",
+  telephone: "+919578784000",
   email: "yercaudcottages@gmail.com",
   priceRange: "₹₹",
 };

@@ -75,13 +75,13 @@ export default function Home() {
           </p>
           <div className="mt-10 flex flex-col justify-center gap-4 sm:flex-row">
             <a
-              href="tel:+919150507580"
+              href="tel:+919578784000"
               className="rounded-full bg-amber-500 px-8 py-4 text-sm font-bold uppercase tracking-wider text-stone-950 shadow-lg shadow-amber-500/30 transition hover:bg-amber-400"
             >
               📞 Call Now
             </a>
             <a
-              href="https://wa.me/919150507580"
+              href="https://wa.me/919578784000"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-full border border-white/30 px-8 py-4 text-sm font-semibold text-white transition hover:bg-white hover:text-stone-900"

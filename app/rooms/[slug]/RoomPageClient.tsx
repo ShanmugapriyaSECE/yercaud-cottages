@@ -129,14 +129,14 @@ export default function RoomPageClient({ room }: { room: Room }) {
               </p>
               <div className="mt-5 flex flex-col gap-3">
                 <a
-                  href="tel:+919150507580"
+                  href="tel:+919578784000"
                   target="_self"
                   className="rounded-full bg-amber-500 px-6 py-3 text-center font-semibold text-stone-950 transition hover:bg-amber-400"
                 >
                   📞 Call to Book
                 </a>
                 <a
-                  href="https://wa.me/919150507580"
+                  href="https://wa.me/919578784000"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-semibold transition hover:bg-white hover:text-stone-900"
